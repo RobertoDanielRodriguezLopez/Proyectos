@@ -1,0 +1,250 @@
+Codigo	idPais	Nombre
+AF	1	Afghanistan
+AX	2	Åland Islands
+AL	3	Albania
+DZ	4	Algeria
+AS	5	American Samoa
+AD	6	Andorra
+AO	7	Angola
+AI	8	Anguilla
+AQ	9	Antarctica
+AG	10	Antigua and Barbuda
+AR	11	Argentina
+AM	12	Armenia
+AW	13	Aruba
+AU	14	Australia
+AT	15	Austria
+AZ	16	Azerbaijan
+BS	17	Bahamas
+BH	18	Bahrain
+BD	19	Bangladesh
+BB	20	Barbados
+BY	21	Belarus
+BE	22	Belgium
+BZ	23	Belize
+BJ	24	Benin
+BM	25	Bermuda
+BT	26	Bhutan
+BO	27	"Bolivia, Plurinational State of"
+BQ	28	"Bonaire, Sint Eustatius and Saba"
+BA	29	Bosnia and Herzegovina
+BW	30	Botswana
+BV	31	Bouvet Island
+BR	32	Brazil
+IO	33	British Indian Ocean Territory
+BN	34	Brunei Darussalam
+BG	35	Bulgaria
+BF	36	Burkina Faso
+BI	37	Burundi
+KH	38	Cambodia
+CM	39	Cameroon
+CA	40	Canada
+CV	41	Cape Verde
+KY	42	Cayman Islands
+CF	43	Central African Republic
+TD	44	Chad
+CL	45	Chile
+CN	46	China
+CX	47	Christmas Island
+CC	48	Cocos (Keeling) Islands
+CO	49	Colombia
+KM	50	Comoros
+CG	51	Congo
+CD	52	"Congo, the Democratic Republic of the"
+CK	53	Cook Islands
+CR	54	Costa Rica
+CI	55	Côte d'Ivoire
+HR	56	Croatia
+CU	57	Cuba
+CW	58	Curaçao
+CY	59	Cyprus
+CZ	60	Czech Republic
+DK	61	Denmark
+DJ	62	Djibouti
+DM	63	Dominica
+DO	64	Dominican Republic
+EC	65	Ecuador
+EG	66	Egypt
+SV	67	El Salvador
+GQ	68	Equatorial Guinea
+ER	69	Eritrea
+EE	70	Estonia
+ET	71	Ethiopia
+FK	72	Falkland Islands (Malvinas)
+FO	73	Faroe Islands
+FJ	74	Fiji
+FI	75	Finland
+FR	76	France
+GF	77	French Guiana
+PF	78	French Polynesia
+TF	79	French Southern Territories
+GA	80	Gabon
+GM	81	Gambia
+GE	82	Georgia
+DE	83	Germany
+GH	84	Ghana
+GI	85	Gibraltar
+GR	86	Greece
+GL	87	Greenland
+GD	88	Grenada
+GP	89	Guadeloupe
+GU	90	Guam
+GT	91	Guatemala
+GG	92	Guernsey
+GN	93	Guinea
+GW	94	Guinea-Bissau
+GY	95	Guyana
+HT	96	Haiti
+HM	97	Heard Island and McDonald Islands
+VA	98	Holy See (Vatican City State)
+HN	99	Honduras
+HK	100	Hong Kong
+HU	101	Hungary
+IS	102	Iceland
+IN	103	India
+ID	104	Indonesia
+IR	105	"Iran, Islamic Republic of"
+IQ	106	Iraq
+IE	107	Ireland
+IM	108	Isle of Man
+IL	109	Israel
+IT	110	Italy
+JM	111	Jamaica
+JP	112	Japan
+JE	113	Jersey
+JO	114	Jordan
+KZ	115	Kazakhstan
+KE	116	Kenya
+KI	117	Kiribati
+KP	118	"Korea, Democratic People's Republic of"
+KR	119	"Korea, Republic of"
+KW	120	Kuwait
+KG	121	Kyrgyzstan
+LA	122	Lao People's Democratic Republic
+LV	123	Latvia
+LB	124	Lebanon
+LS	125	Lesotho
+LR	126	Liberia
+LY	127	Libya
+LI	128	Liechtenstein
+LT	129	Lithuania
+LU	130	Luxembourg
+MO	131	Macao
+MK	132	"Macedonia, the Former Yugoslav Republic of"
+MG	133	Madagascar
+MW	134	Malawi
+MY	135	Malaysia
+MV	136	Maldives
+ML	137	Mali
+MT	138	Malta
+MH	139	Marshall Islands
+MQ	140	Martinique
+MR	141	Mauritania
+MU	142	Mauritius
+YT	143	Mayotte
+MX	144	Mexico
+FM	145	"Micronesia, Federated States of"
+MD	146	"Moldova, Republic of"
+MC	147	Monaco
+MN	148	Mongolia
+ME	149	Montenegro
+MS	150	Montserrat
+MA	151	Morocco
+MZ	152	Mozambique
+MM	153	Myanmar
+NA	154	Namibia
+NR	155	Nauru
+NP	156	Nepal
+NL	157	Netherlands
+NC	158	New Caledonia
+NZ	159	New Zealand
+NI	160	Nicaragua
+NE	161	Niger
+NG	162	Nigeria
+NU	163	Niue
+NF	164	Norfolk Island
+MP	165	Northern Mariana Islands
+NO	166	Norway
+OM	167	Oman
+PK	168	Pakistan
+PW	169	Palau
+PS	170	"Palestine, State of"
+PA	171	Panama
+PG	172	Papua New Guinea
+PY	173	Paraguay
+PE	174	Peru
+PH	175	Philippines
+PN	176	Pitcairn
+PL	177	Poland
+PT	178	Portugal
+PR	179	Puerto Rico
+QA	180	Qatar
+RE	181	Réunion
+RO	182	Romania
+RU	183	Russian Federation
+RW	184	Rwanda
+BL	185	Saint Barthélemy
+SH	186	"Saint Helena, Ascension and Tristan da Cunha"
+KN	187	Saint Kitts and Nevis
+LC	188	Saint Lucia
+MF	189	Saint Martin (French part)
+PM	190	Saint Pierre and Miquelon
+VC	191	Saint Vincent and the Grenadines
+WS	192	Samoa
+SM	193	San Marino
+ST	194	Sao Tome and Principe
+SA	195	Saudi Arabia
+SN	196	Senegal
+RS	197	Serbia
+SC	198	Seychelles
+SL	199	Sierra Leone
+SG	200	Singapore
+SX	201	Sint Maarten (Dutch part)
+SK	202	Slovakia
+SI	203	Slovenia
+SB	204	Solomon Islands
+SO	205	Somalia
+ZA	206	South Africa
+GS	207	South Georgia and the South Sandwich Islands
+SS	208	South Sudan
+ES	209	Spain
+LK	210	Sri Lanka
+SD	211	Sudan
+SR	212	Suriname
+SJ	213	Svalbard and Jan Mayen
+SZ	214	Swaziland
+SE	215	Sweden
+CH	216	Switzerland
+SY	217	Syrian Arab Republic
+TW	218	"Taiwan, Province of China"
+TJ	219	Tajikistan
+TZ	220	"Tanzania, United Republic of"
+TH	221	Thailand
+TL	222	Timor-Leste
+TG	223	Togo
+TK	224	Tokelau
+TO	225	Tonga
+TT	226	Trinidad and Tobago
+TN	227	Tunisia
+TR	228	Turkey
+TM	229	Turkmenistan
+TC	230	Turks and Caicos Islands
+TV	231	Tuvalu
+UG	232	Uganda
+UA	233	Ukraine
+AE	234	United Arab Emirates
+GB	235	United Kingdom
+US	236	United States
+UM	237	United States Minor Outlying Islands
+UY	238	Uruguay
+UZ	239	Uzbekistan
+VU	240	Vanuatu
+VE	241	"Venezuela, Bolivarian Republic of"
+VN	242	Viet Nam
+VG	243	"Virgin Islands, British"
+VI	244	"Virgin Islands, U.S."
+WF	245	Wallis and Futuna
+EH	246	Western Sahara
+YE	247	Yemen
+ZM	248	Zambia
+ZW	249	Zimbabwe
